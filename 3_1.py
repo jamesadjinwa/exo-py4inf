@@ -6,4 +6,4 @@ if hours > 40:
     pay = 1.5*rate*hours
 else:
     pay = rate*hours
-print 'Pay:'+str(pay)
+print('Pay:'+str(pay))
